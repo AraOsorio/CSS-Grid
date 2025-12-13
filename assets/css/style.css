@@ -1,0 +1,36 @@
+
+header{
+    display:flex;
+    justify-content: center;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: rgb(34, 1, 75);
+    color: azure;
+    font-family: roboto;
+}
+
+body{
+    margin:0;
+}
+
+menu{
+    padding-left: 0;
+    height: 100vh;
+}
+
+.menu-container{
+   display: flex;
+   flex-direction: row;
+   width: 200px;
+   margin:0;
+   padding-left: 0;
+   background-color: antiquewhite;
+   font-family: roboto;
+}
+
+.item-menu{
+    text-decoration: none;
+}
+
+

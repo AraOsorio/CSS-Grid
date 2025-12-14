@@ -2,6 +2,8 @@
 
 Este proyecto es el segundo desafío del módulo "CSS Avanzado". El objetivo era desarrollar una página web de ecommerce desarrollada utilizando HTML y CSS, enfocada en la maquetación y organización visual del contenido.
 
+link: https://araosorio.github.io/CSS-Grid/
+
 ## 🛠️ Tecnologías
 
 - HTML5  

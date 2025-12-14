@@ -8,6 +8,7 @@ header{
     background-color: rgb(34, 1, 75);
     color: azure;
     font-family: roboto;
+    width: 100%;
 }
 
 body{
@@ -17,6 +18,7 @@ body{
 menu{
     padding-left: 0;
     height: 100vh;
+    
 }
 
 .menu-container{
@@ -38,9 +40,30 @@ menu{
 
 .galeria-ecommerce{
     display: grid;
-    grid-template-columns: auto auto auto;
-    border: 2px red;
+    grid-template-columns: auto auto auto auto;
     padding: 20px;
+    gap: 20px;
+    background-color: rgb(255, 247, 238);
+    width: 100%;
+}
+
+.item-galeria{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 30px;
+    width: 300px;
+    height: 100%;
+    padding: 5px;
+}
+
+.texto-galeria{
+    text-align: center;
+    background-color: rgb(77, 0, 112);
+    color: aliceblue;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 footer{
@@ -54,9 +77,15 @@ footer{
     text-align: center;
 }
 
+
+h2{
+    font-family: roboto;
+}
+
 p{
     margin: 5px;
     padding: 0;
+    font-family: roboto;
 }
 
 

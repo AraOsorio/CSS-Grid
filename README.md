@@ -20,10 +20,11 @@ link: https://araosorio.github.io/CSS-Grid/
 
 /
 ├── index.html  
-├── assets/  
-    └── css 
-        └── style.css   
+└── assets/  
+    ├── css/  
+    │   └── style.css  
     └── images/  
+
 
 ## 🎯 Objetivo
 
